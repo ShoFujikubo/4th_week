@@ -1,0 +1,10 @@
+h1
+{
+    text-align: center;
+}
+
+.image-round1
+{   display: inline;
+    text-align: center;
+    border-radius: 50%;
+}
